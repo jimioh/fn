@@ -1,4 +1,5 @@
 console.log('start');
+
 // right to left with compose
 var pageValidators = [
 	function () { return null; },
